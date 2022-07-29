@@ -33,3 +33,12 @@ Skybox: [Farland Skies - Cloudy Crown](https://assetstore.unity.com/packages/2d/
 Models: [Kenny's Nature Pack Extended](https://kenney.nl/assets/nature-pack-extended)
 
 Typeface: [Changa](https://fonts.google.com/specimen/Changa)
+
+Audio: 
+[Kenny](https://kenney.nl/)
+
+[Oculus Audo Pack](https://developer.oculus.com/downloads/package/oculus-audio-pack-1/)
+
+[Mindful Audio](https://mindful-audio.com/)
+
+[Wallpaper, Cheery Monday, by Keven MacLeod](https://creativecommons.org/licenses/by/3.0/)
