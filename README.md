@@ -26,6 +26,18 @@ There is a back button that returns to the previous canvas.
 
 The pause menu is activated from in game by hitting `esc` and is modeled after the previous screen game objects. When the pause menu is active, the background music is muffled and the time is paused. The user can restart the level and time, go to the menu with the levels, select options, or resume.
 
+## Audio
+Button SFX - Audio is added to enrich the user experience, for all the buttons in the previous menus there is a button rollover sound that alerts the user that they hovered over an activatable item.
+
+BGM Mixer - Background music is added, with an Audio Mixer that has Audio Mixer Groups set to 0.00dB.
+
+Animation Sounds - Foot steps are added when the player walks or runs.
+
+Landing Sound - If the player falls from the platform, they reoriginate from the sky and fall at the start, when they land they make a thump.
+
+Winning Sound - When the player reaches the final flag there is a victory chime.
+
+Ambient Noises - When you get near a specific tree or flower you will hear birds or crickets chirp, that fades the farther away you go.
 
 ## Assets
 Skybox: [Farland Skies - Cloudy Crown](https://assetstore.unity.com/packages/2d/textures-materials/sky/farland-skies-cloudy-crown-60004)
