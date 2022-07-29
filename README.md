@@ -1,7 +1,7 @@
 # 0x00-unity-3D_platformer_game
  A 3D platformer game exhibiting a comprehensive display of Unity concepts.
  
-## UI
+## Simple UI
 ![Levels being clicked](https://raw.githubusercontent.com/szbrooks2017/0x00-unity-3D_platformer_game/main/Assets/Readme%20Assets/UI_levels_clicked.gif) There are three levels to the platformer, created with 9-slicing and built-in Unity buttons on a canvas popup.
 
 ![Options being clicked](https://raw.githubusercontent.com/szbrooks2017/0x00-unity-3D_platformer_game/main/Assets/Readme%20Assets/UI_levels_clicked_1.1.gif) The user can click to access more settings and customizations. 
