@@ -34,7 +34,8 @@ Models: [Kenny's Nature Pack Extended](https://kenney.nl/assets/nature-pack-exte
 
 Typeface: [Changa](https://fonts.google.com/specimen/Changa)
 
-Audio: 
+Audio:
+
 [Kenny](https://kenney.nl/)
 
 [Oculus Audo Pack](https://developer.oculus.com/downloads/package/oculus-audio-pack-1/)
