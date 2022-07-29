@@ -10,7 +10,7 @@
 
 ![Settings](https://raw.githubusercontent.com/szbrooks2017/0x00-unity-3D_platformer_game/main/Assets/Readme%20Assets/UI_options_clicked.gif) There is a back button that returns to the previous canvas.
 
-![Pause Menu](https://raw.githubusercontent.com/szbrooks2017/0x00-unity-3D_platformer_game/main/Assets/Readme%20Assets/Pause%20Menu.png) The Pause Menu is activated from in game by hitting `esc` and is modeled after the previous screen game objects.
+![Pause Menu](https://raw.githubusercontent.com/szbrooks2017/0x00-unity-3D_platformer_game/main/Assets/Readme%20Assets/Pause%20Menu.png) The pause menu is activated from in game by hitting `esc` and is modeled after the previous screen game objects. When the pause menu is active, the background music is muffled and the time is paused. The user can restart the level and time, go to the menu with the levels, select options, or resume.
 
 
 ## Assets
