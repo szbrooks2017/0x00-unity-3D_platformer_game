@@ -4,6 +4,13 @@
 ## UI
 ![Levels being clicked](https://raw.githubusercontent.com/szbrooks2017/0x00-unity-3D_platformer_game/main/Assets/Readme%20Assets/UI_levels_clicked.gif)
 
+![Options being clicked](https://raw.githubusercontent.com/szbrooks2017/0x00-unity-3D_platformer_game/main/Assets/Readme%20Assets/UI_levels_clicked_1.1.gif)
+
+![Options button](https://raw.githubusercontent.com/szbrooks2017/0x00-unity-3D_platformer_game/main/Assets/Readme%20Assets/UI_options_button.gif)
+
+![Settings](https://raw.githubusercontent.com/szbrooks2017/0x00-unity-3D_platformer_game/main/Assets/Readme%20Assets/UI_options_clicked.gif)
+
+
 ## Assets
 Skybox: [Farland Skies - Cloudy Crown](https://assetstore.unity.com/packages/2d/textures-materials/sky/farland-skies-cloudy-crown-60004)
 
