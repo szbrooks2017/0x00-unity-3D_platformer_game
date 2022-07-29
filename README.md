@@ -29,7 +29,7 @@ The pause menu is activated from in game by hitting `esc` and is modeled after t
 ## Audio
 Button SFX - Audio is added to enrich the user experience, for all the buttons in the previous menus there is a button rollover sound that alerts the user that they hovered over an activatable item.
 
-BGM Mixer - Background music is added, with an Audio Mixer that has Audio Mixer Groups set to 0.00dB.
+BGM Mixer - Background music is added, with an Audio Mixer that has Audio Mixer Group set to 0.00dB.
 
 Animation Sounds - Foot steps are added when the player walks or runs.
 
